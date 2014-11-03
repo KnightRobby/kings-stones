@@ -1,6 +1,6 @@
 TEMPLATE = app
-TARGET = maxcoin-qt
-macx:TARGET = "MaxCoin-Qt"
+TARGET = kings-stones-qt
+macx:TARGET = "Kings Stones qt"
 VERSION = 0.9.3.1
 INCLUDEPATH += src src/json src/qt
 QT += network
