@@ -20,7 +20,7 @@ Notable differences from Bitcoin
 Modifications to the RPC API
 + verifymessage <publickey> <signature> <message>
 + makekeypair [hex-encoded prefix]
-+ dumppubkey <maxcoinaddress>
++ dumppubkey <kingsstonescoinaddress>
 
 Additional technical details can be found in the [Wiki](https://github.com/LinuxPhreak/kings-stones/wiki/_pages).
 
