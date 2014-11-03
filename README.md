@@ -1,13 +1,13 @@
-What is MaxCoin?
+What is Kings Stones?
 ==============
 
 An alternative cryptocurrency disrupting the already rather disrupting crypto market.
 
 Technical Information
 
-+ ~100,000,000 coins
-+ 16 coins rewarded per block, halving every 4 years
-+ 60 second block times
++ ~28477200 coins
++ 8 coins rewarded per block, halving every 4 years
++ 60 minutes block times
 + difficulty retargeting using a time-warp resistant implementation of KGW
 
 Notable differences from Bitcoin
@@ -22,12 +22,12 @@ Modifications to the RPC API
 + makekeypair [hex-encoded prefix]
 + dumppubkey <maxcoinaddress>
 
-Additional technical details can be found in the [Wiki](https://github.com/Max-Coin/maxcoin/wiki/_pages).
+Additional technical details can be found in the [Wiki](https://github.com/LinuxPhreak/kings-stones/wiki/_pages).
 
-Forked from Bitcoin reference wallet 0.8.5 and Blakecoin
+Forked from Maxcoin reference wallet 0.8.5 and Blakecoin
 
 License
 ------
 
-MaxCoin is released under the terms of the MIT license. See `COPYING` for more
+Kings Stones is released under the terms of the MIT license. See `COPYING` for more
 information or see http://opensource.org/licenses/MIT.
