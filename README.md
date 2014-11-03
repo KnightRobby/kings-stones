@@ -5,8 +5,8 @@ An alternative cryptocurrency disrupting the already rather disrupting crypto ma
 
 Technical Information
 
-+ ~28477200 coins
-+ 8 coins rewarded per block, halving every 4 years
++ ~28477200 coins (Kingstons current population 23,731 muliplied by the average costs of rent for a one room apt plus utilities 1,200USD)
++ 8 coins rewarded per block, halving every 4 years (Current minimum wage is 7.25USD assuming that Kings Stones are worth 1.00USD miners will recieve 8 coins per hour)
 + 60 minutes block times
 + difficulty retargeting using a time-warp resistant implementation of KGW
 
